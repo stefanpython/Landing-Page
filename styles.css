@@ -48,17 +48,17 @@ ul {
     display: flex;
     margin-left: 447px;
     margin-top: 140px;
-    width: 315px;
+    width: 322px;
     word-wrap: break-word;
-    font-size: 28px;
-    font-style: bold;
 }
+
+
 
 .subtext {
     display: flex;
     margin: auto;
-    margin-top: 250px;
-    margin-left: -315px;
+    margin-top: 253px;
+    margin-left: -321px;
     width: 372px;
     word-wrap: break-word;
     font-size: 18px;
@@ -67,8 +67,9 @@ ul {
 .top {
     display: flex; 
     margin: auto;
-    margin-left: 445px;
+    margin-left: 447px;
     position: absolute;
+    margin-top: -15px;
 }
 
 
@@ -81,4 +82,99 @@ ul {
     display: flex;
     justify-content: flex-end;
     margin-top: -220px;
+}
+
+.second-title {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.randomtitle {
+    font-size: 36px;
+    font-weight: 900;
+    padding-top: 50px;
+}
+
+.content {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+    margin-top: 35px;
+}
+
+.text {
+    width: 200px;
+    margin-top: 10px;
+    margin-bottom: 130px;
+}
+
+img {
+    border-radius: 15px;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding: 200px;
+    font-style: italic;
+}
+
+.otherquote {
+    font-size: 36px;
+    width: 750px;
+    height: auto;
+    margin-right: -255px;
+    font-weight: lighter;
+    margin-top: -30px;
+}
+
+.signature {
+    margin-top: 170px;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: -70px;
+}
+
+.signup {
+    background-color: #3882F6;
+    margin: 120px;
+    padding: 50px;
+    margin-left: 320px;
+    margin-right: 320px;
+    border-radius: 15px;
+    color: white;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-left: 10px;
+}
+
+.bottom {
+    margin-top: 33px;
+    margin-left: -294px;
+    font-size: large;
+}
+
+h3 {
+    margin-left: -200px;
+}
+
+.botbtn {
+    margin-left: 300px;
+    margin-right: -200px;
+    height: 40px;
+    width: 140px;
+    align-self: center;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    padding: 40px;
+    align-items: center;
 }
